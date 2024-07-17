@@ -1,0 +1,65 @@
+header {
+  padding: 20px;
+  background-color: green;
+  text-align: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+body {
+  background-color: limegreen;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+nav {
+  overflow: hidden;
+}
+
+nav a {
+  float: center;
+  color: white;
+  padding: 30px 30px;
+  text-decoration: none;
+  text-align: center;
+  border-style: ridge;
+  background-color: darkgreen;
+  border-color: white;
+}
+
+section {
+  background-color: white;
+  padding: 20px;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.textao {
+  color: white;
+  background-color: darkgreen;
+  border-style: ridge;
+  border-color: white;
+}
+
+.textao2 {
+  color: white;
+  background-color: green;
+  border-style: ridge;
+  border-color: white;
+  padding: 5px;
+}
+
+section img {
+  border-style: ridge;
+  border-color: green;
+  width: 100%;
+}
+
+section iframe {
+  width: 100%;
+  height: 50%;
+}
+
+section a {
+  color: green;
+}
